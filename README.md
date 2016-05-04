@@ -95,7 +95,7 @@ The `TrecPipelineRunner` program is used to execute the pipeline which analyzes 
 
 The program arguments are:
 
-`-argumentsFilePath arguments/trec-en-pipeline-arguments.txt`
+`-argumentsFilePath arguments/trec-en-pipeline-arguments-qc-foc.txt`
 
 This file contains all the actual arguments of the program.
 
