@@ -63,7 +63,7 @@ mvn clean dependency:copy-dependencies package
 ## Running the pipeline
 
 ```
-./run\_qc_qf.sh
+./run_qc_qf.sh
 ```
 
 Look into the run_qc_qf.sh script and the arguments/trec-en-pipeline-arguments.txt file to understand what is happening.  
