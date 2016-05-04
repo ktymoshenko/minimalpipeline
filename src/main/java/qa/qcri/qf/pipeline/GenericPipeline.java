@@ -18,6 +18,7 @@ import qa.qcri.qf.pipeline.readers.AnalyzableReader;
 import qa.qcri.qf.pipeline.retrieval.Analyzable;
 import qa.qcri.qf.pipeline.serialization.UIMAPersistence;
 import qa.qcri.qf.pipeline.trec.AnalyzerFactory;
+import qa.qcri.qf.type.QuestionID;
 import util.ChunkReader;
 
 import com.google.common.base.Function;
@@ -131,6 +132,12 @@ public class GenericPipeline {
 		return AnalyzerFactory.newTrecPipeline(lang, persistence);
 	}
 
+	public Analyzer instantiateQCAndQFFromFileAnalyzer( UIMAPersistence persistence, String questionFile, String focusFile) 
+		throws UIMAException {
+		return AnalyzerFactory.newTrecPipelineFocusAndQCFromFileEnAnalyzer(persistence, questionFile, focusFile);
+	}
+
+	
 	private void populateIdToQuestionMap() {
 		this.idToQuestion.clear();
 		Iterator<Analyzable> questions = this.questionReader.newReader().iterator();
@@ -153,6 +160,8 @@ public class GenericPipeline {
 		
 		JCas cas = JCasFactory.createJCas();
 		
+		
+		
 		if(this.candidatesToKeep == -1) {			
 			while (analyzables.hasNext()) {
 				Analyzable analyzable = analyzables.next();
@@ -160,8 +169,11 @@ public class GenericPipeline {
 			}
 		} else {
 			int counter = 0;
+			//added only for the purposes of demonstration
+			
 			while (analyzables.hasNext()) {
 				Analyzable analyzable = analyzables.next();
+				
 				this.ae.analyze(cas, analyzable, aesListId);
 				
 				counter++;

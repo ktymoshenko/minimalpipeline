@@ -10,7 +10,7 @@
 #
 
 CC=gcc                          # used C-compiler
-CFLAGS=  -O3 -Wall -pedantic  -fPIC -I${JAVA_HOME}/include -I${JAVA_HOME}/include/linux # release C-Compiler flags
+CFLAGS=  -O3 -Wall -pedantic  -fPIC -I${JAVA_HOME}/include/darwin -I${JAVA_HOME}/include -I${JAVA_HOME}/include/linux # release C-Compiler flags
 # CFLAGS=   -g -Wall -pedantic  # debugging C-Compiler flags
 LD=gcc                          # used linker
 LFLAGS=  -O3                      # linker flags

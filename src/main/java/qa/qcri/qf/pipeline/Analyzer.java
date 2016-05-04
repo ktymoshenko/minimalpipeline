@@ -19,6 +19,8 @@ import org.slf4j.LoggerFactory;
 import qa.qcri.qf.pipeline.retrieval.Analyzable;
 import qa.qcri.qf.pipeline.serialization.UIMANoPersistence;
 import qa.qcri.qf.pipeline.serialization.UIMAPersistence;
+import qa.qcri.qf.pipeline.trec.AnalyzerFactory;
+import qa.qcri.qf.type.QuestionID;
 
 public class Analyzer {
 
@@ -126,7 +128,11 @@ public class Analyzer {
 		 * retrieve the content
 		 */
 		String id = analyzable.getId();
-
+		if (aesListId.equals(AnalyzerFactory.QUESTION_ANALYSIS)){
+			QuestionID qid = new QuestionID(cas);
+			qid.setQuestionID(id);
+			qid.addToIndexes(cas);
+		}
 		if (this.persistence.isAlreadySerialized(id)) {
 			this.persistence.deserialize(cas, id);
 		} else {
@@ -140,6 +146,7 @@ public class Analyzer {
 				logger.warn("AE list with id " + aesListId + " not found."
 						+ " Falling back to the main analysis engine list.");
 			}
+			
 			
 			for (AnalysisEngine ae : aesList) {
 				try {

@@ -1,0 +1,15 @@
+-trainQuestionsPath data/trec-en/questions.txt
+-trainCandidatesPath data/trec-en/terrier.BM25b0.75_0
+-trainCasesDir CASes/trec-en/
+-trainOutputDir data/trec-en-qc/train/
+-testQuestionsPath data/trec-en/questions.txt
+-testCandidatesPath data/trec-en/terrier.BM25b0.75_0
+-testCasesDir CASes/trec-en/
+-testOutputDir data/trec-en-qc/test/
+-candidatesToKeepInTrain 10
+-candidatesToKeepInTest 50
+-trainQuestionCategories data/trec-en/questions.openlpcat.txt
+-testQuestionCategories data/trec-en/questions.openlpcat.txt
+-trainQuestionFocus data/trec-en/trec_focus.txt
+-testQuestionFocus data/trec-en/trec_focus.txt
+-lang en

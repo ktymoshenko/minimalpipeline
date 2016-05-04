@@ -44,7 +44,7 @@ apt-get install maven).
 Clone the minimal pipeline from the repository with:
 
 ```
-git clone https://github.com/mnicosia/minimalpipeline.git
+git clone https://github.com/ktymoshenko/minimalpipeline.git
 ```
 
 
@@ -63,10 +63,10 @@ mvn clean dependency:copy-dependencies package
 ## Running the pipeline
 
 ```
-./run.sh
+./run\_qc_qf.sh
 ```
 
-Look into the run.sh script and the arguments/trec-en-pipeline-arguments.txt file to understand what is happening.  
+Look into the run_qc_qf.sh script and the arguments/trec-en-pipeline-arguments.txt file to understand what is happening.  
 
 The first run will take time since Maven is downloading JARs and model files.  
 
@@ -106,7 +106,7 @@ This file contains all the actual arguments of the program.
 
 -trainCasesDir CASes/trec-en/  
 
--trainOutputDir data/trec-en/train/  
+-trainOutputDir data/trec-en-qc/train/  
 
 -testQuestionsPath data/trec-en/questions.txt  
 
@@ -114,7 +114,7 @@ This file contains all the actual arguments of the program.
 
 -testCasesDir CASes/trec-en/  
 
--testOutputDir data/trec-en/test/  
+-testOutputDir data/trec-en-qc/test/  
 
 -candidatesToKeepInTrain 10  
 
@@ -144,7 +144,7 @@ Out of 824 questions only 416 are used to generate training examples because the
 Run:
 
 ```
-python scripts/folds.py data/trec-en/ 5
+python scripts/folds.py data/trec-en-qc/ 5
 ```
 
 in order to take the training and testing examples produced by the pipeline and split them into five folds. The script assumes that the train and test data are in the specified directory.
@@ -154,7 +154,7 @@ in order to take the training and testing examples produced by the pipeline and 
 The command:
 
 ```
-python scripts/svm_run_cv.py --params="-t 5 -F 3 -C + -W R -V R -m 400" --ncpus 2 data/trec-en/folds/
+python scripts/svm_run_cv.py --params="-t 5 -F 3 -C + -W R -V R -m 400" --ncpus 2 data/trec-en-qc/folds/
 ```
 
 will launch the learning, the reranking and the evaluation, which will be carried out on the single folds. The metrics averaged on all folds will be printed on the screen. The `--ncpus` parameter can be used to parallelize the jobs.

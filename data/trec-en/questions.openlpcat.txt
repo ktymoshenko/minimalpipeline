@@ -1,0 +1,824 @@
+1394 LOC In what country did the game of croquet originate?
+1395 HUM Who is Tom Cruise married to?
+1396 LOC What is the name of the volcano that destroyed the ancient city of Pompeii?
+1397 ENTY What was the largest crowd to ever come see Michael Jordan?
+1398 NUM What year was Alaska purchased?
+1399 NUM What mythical Scottish town appears for one day every 100 years?
+1400 NUM When was the telegraph invented?
+1401 ENTY What is the democratic party symbol?
+1402 NUM What year did Wilt Chamberlain score 100 points?
+1403 NUM When was the internal combustion engine invented?
+1404 NUM How many chromosomes does a human zygote have?
+1405 NUM How many ounces are in a gallon?
+1406 NUM When did the story of Romeo and Juliet take place?
+1407 NUM When did the shootings at Columbine happen?
+1408 HUM Which political party is Lionel Jospin a member of?
+1409 HUM Which vintage rock and roll singer was known as "The Killer"?
+1410 DESC What lays blue eggs?
+1411 HUM What Spanish explorer discovered the Mississippi River?
+1412 HUM Who is the governor of Colorado?
+1413 LOC What river is called "China's Sorrow"?
+1414 NUM What was the length of the  Wright brothers' first flight?
+1415 LOC Where does the vice president live when in office?
+1416 NUM When was Wendy's founded?
+1417 HUM Who was the first person to run the mile in less than four minutes?
+1418 NUM When was the Rosenberg trial?
+1419 LOC What year did Alaska become a state?
+1421 NUM When did Mike Tyson bite Holyfield's ear?
+1423 ENTY What is a peninsula in the Philippines?
+1424 HUM Who won the Oscar for best actor in 1970?
+1425 NUM What is the population of Maryland?
+1426 HUM Who is the governor of Tennessee?
+1427 ENTY What was the first spaceship on the moon?
+1428 HUM Who won the Nobel Peace Prize in 1992?
+1429 HUM What was Andrew Jackson's wife's name?
+1431 HUM Who starred in "The Poseidon Adventure"?
+1432 LOC Where is Devil's Tower?
+1433 DESC What is the height of the tallest redwood?
+1434 ENTY What site did Lindbergh begin his flight from in 1927?
+1435 LOC What nation is home to the Kaaba?
+1436 HUM What was the name of Stonewall Jackson's horse?
+1438 LOC What body of water does the Colorado River flow into?
+1439 NUM How deep is Crater Lake?
+1440 HUM Who was the lead singer for the Commodores?
+1441 ENTY What is the coldest place on earth?
+1442 ENTY What is the chemical formula for sulphur dioxide?
+1443 NUM When did Bob Marley die?
+1444 HUM What female leader succeeded Ferdinand Marcos as president of the Philippines?
+1446 DESC How did Mahatma Gandhi die?
+1447 LOC What is the capital of Syria?
+1449 HUM What college did Magic Johnson attend?
+1450 LOC Which U.S. state is the leading corn producer?
+1451 LOC Where was the first McDonalds built?
+1452 ENTY What is the name given to a collection of poetry?1
+1453 LOC Where was the first J.C. Penney store opened?
+1454 NUM How much money does the U.S. supreme court make?
+1455 LOC The Hindenburg disaster took place in 1937 in which New Jersey town?
+1456 DESC What is the Keystone State?
+1457 HUM Who succeeded Ferdinand Marcos?
+1458 HUM What was the name of the high school in "Grease"?
+1459 ENTY What is one national park in Indiana?
+1460 ENTY What was the name of the dog in the Thin Man movies?
+1462 LOC Where is the oldest synagogue in the United States?
+1463 ENTY What is the North Korean national anthem?
+1464 HUM Who is the detective on "Diagnosis Murder"?
+1465 HUM What company makes Bentley cars?
+1466 NUM How tall is Allen Iverson?
+1467 NUM What year did South Dakota become a state?
+1469 NUM When did Alexandra Graham Bell invent the telephone?
+1470 NUM When did president Herbert Hoover die?
+1471 NUM How fast does a cheetah run?
+1472 DESC How do you say "house" in Spanish?
+1473 NUM When was Lyndon B. Johnson born?
+1474 ENTY What is the lowest point on earth?
+1475 HUM Who was the first person to reach the south pole?
+1476 HUM Who was the Roman god of the sea?
+1477 ENTY What are wavelengths measured in?
+1478 ENTY What is the name of the heroine in "Gone with the Wind"?
+1479 HUM Who composed "The Messiah"?
+1480 ENTY What is the principle port in Ecuador?
+1481 LOC What is the capital city of Algeria?
+1482 ENTY What county is Wilmington, Delaware in?
+1483 LOC Where is the highest point on earth?
+1484 HUM What college did Allen Iverson attend?
+1487 NUM How much are tickets to Disney World?
+1488 HUM Myrtle Beach, South Carolina?
+1489 LOC What continent is India on?
+1490 HUM What is the Boston Strangler's name?
+1491 ENTY What was the name of Sherlock Holmes' brother?
+1492 DESC How old was Nolan Ryan when he retired?
+1493 NUM When was Davy Crockett born?
+1494 HUM Who wrote "East is east, west is west and never the twain shall meet"?
+1496 LOC What country is Berlin in?
+1497 HUM What was the original name before "The Star Spangled Banner"?
+1498 ENTY What school did Emmitt Smith go to?
+1499 LOC Which African country's major export is coffee?
+1500 LOC Where is Georgetown University?
+1501 NUM How much of U.S. power is from nuclear energy?
+1502 NUM What year was President Kennedy killed?
+1503 LOC What is the world's second largest island?
+1504 LOC Where is the Salton Sea?
+1505 ENTY What is the currency used in China?
+1506 ENTY What's the name of King Arthur's sword?
+1507 ENTY What is the national anthem in England?
+1508 HUM What was Dale Evans' horse's name?
+1509 HUM What is Frank Sinatra's nickname?
+1510 LOC Where is Anne Frank's diary?
+1512 DESC What is the age of our solar system?
+1513 NUM What is the current population in Bombay, India?
+1514 LOC What is Canada's most populous city?
+1515 HUM What was Dr. Seuss' real name?
+1516 ABBR What does CPR stand for?
+1517 LOC What is the state bird of Alaska?
+1518 NUM What year did Marco Polo travel to Asia?
+1519 LOC Where was Hans Christian Anderson born?
+1520 LOC What is the capital of Kentucky?
+1521 ENTY What year did Ellis Island open its doors to immigrants?
+1522 ENTY What are the headpieces called that the Saudi Arabians wear?
+1523 HUM What percent of the U.S. is African American?
+1524 ENTY What is the name of the ballpark that the Milwaukee Brewers play at?
+1525 HUM What university did Thomas Jefferson found?
+1526 LOC What is the city of brotherly love?
+1527 NUM When did the 6-day war begin?
+1528 LOC Where did Kublai Khan live?
+1529 HUM What is the oldest college bowl game?
+1530 LOC What is the capital city of New Zealand?
+1531 ABBR What does NASDAQ stand for?
+1532 NUM What is the literacy rate in Cuba?
+1533 HUM Who directed the film "Fail Safe"?
+1534 ENTY The sun is mostly made up of what two gasses?
+1535 HUM Who painted "Sunflowers"?
+1536 LOC What city is Lake Washington by?
+1537 NUM How many electoral college votes in Tennessee?
+1538 HUM Who is the evil H.R. Director in "Dilbert"?
+1539 ENTY What is Ronald Reagan's favorite candy?
+1540 LOC What is the deepest lake in America?
+1541 ENTY What president is on a quarter?
+1542 LOC Where is Hill Air Force Base?
+1544 LOC What is the most populated country in the world?
+1545 ENTY What is a female rabbit called?
+1546 NUM What year was the movie "Ole Yeller" made?
+1547 NUM What is the atomic number of uranium?
+1549 NUM What year was the PC invented?
+1550 ENTY What is the southwestern-most tip of England?
+1551 ABBR What does DNA stand for?
+1552 ENTY What did Charles Babbage invent?
+1553 HUM Who makes Magic Chef refrigerators?
+1554 ENTY What is the scientific name for tobacco?
+1555 NUM When was the Tet offensive in Vietnam?
+1556 ENTY What cemetery is Thurgood Marshall buried in?
+1557 ENTY What was the first satellite in space?
+1559 LOC Where did Dr. King give his speech in Washington?
+1560 ENTY What was Denzel Washington's first television series?
+1561 NUM When was the first patent filed on the ice cream cone?
+1562 LOC Where did the U.S. Civil War begin?
+1563 HUM Who started the Protestant reformation?
+1564 NUM When did Led Zeppelin appear on BBC?
+1565 HUM What is Karl Malone's nickname?
+1566 HUM What famous Spanish poet died in Spain's Civil War?
+1567 NUM When did the Black Panther party start in California?
+1568 DESC How old was George Washington when he died?
+1569 NUM When did the Vietnam War end?
+1570 ENTY What is the legal age to vote in Argentina?
+1572 HUM For whom was the state of Pennsylvania named?
+1573 HUM Who is the head of the FBI?
+1574 NUM When did "The Simpsons" first appear on television?
+1575 DESC What is the degree of tilt of Earth?
+1576 ENTY What galaxy is closest to the milky way?
+1578 DESC How tall is the Sphinx?
+1579 LOC Which country exports the most tea?
+1580 ENTY What name is given to the science of map-making?
+1582 NUM How high is a hand?
+1583 ENTY What is the text of an opera called?
+1584 NUM When did George W. Bush get elected as the governor of Texas?
+1585 ENTY What is the chief religion for Peru?
+1586 NUM When did the Golden Gate Bridge get finished?
+1588 NUM When was Apollo 11 launched?
+1589 NUM in the same year?
+1590 ENTY What do grasshoppers eat?
+1591 NUM What percentage of the population is left handed?
+1592 NUM When was the Reichstag burned down?
+1593 NUM What percent of Egypt's population lives in Cairo?
+1595 HUM What person developed COBOL?
+1596 NUM What year did Mussolini seize power in Italy?
+1597 LOC Where is the French consulate in New York?
+1598 HUM Who was the baseball player given the nickname "Mr. October"?
+1599 NUM What is South Africa's total population?
+1600 HUM What automobile company makes the Spider?
+1601 NUM When did Einstein die?
+1603 NUM When did Robert E. Lee surrender in the Civil War?
+1604 ABBR What does R&B stand for?
+1605 NUM How far would you run if you participate in a marathon?
+1606 ENTY What is the boiling point of water?
+1607 ENTY What is the normal blood sugar range for people?
+1609 ENTY What is the currency of Bolivia called?
+1612 NUM When was the U.S. invasion of Haiti?
+1613 NUM When was Benjamin Disraeli prime minister?
+1614 LOC What is the capital of Victoria?
+1615 LOC What is Africa's largest country?
+1616 NUM When is Gerald Ford's birthday?
+1617 NUM When did the Klondike gold rush occur?
+1618 LOC Where is bile produced?
+1619 HUM Which baseball star stole 130 bases in 1982?
+1620 NUM What year was the first Macy's Thanksgiving Day Parade held?
+1621 NUM between France and Spain?
+1622 HUM Who was Woodrow Wilson's First Lady?
+1623 ENTY What is the active ingredient in Tylenol?
+1624 NUM What year did "New Coke" come out?
+1625 LOC What is the deepest lake in the world?
+1626 HUM What is Buzz Aldrin's real first name?
+1627 ENTY What is written on the U.S. tomb of the unknown soldier?
+1628 NUM How much area does the Everglades cover?
+1629 LOC Where is Mae West buried?
+1630 NUM When was the dog domesticated?
+1631 DESC What's the capacity of the Superdome?
+1633 ENTY What roller coaster is the fastest in the world?
+1634 DESC What is the area of Venezuela?
+1635 HUM What is the name of the famous dogsledding race held each year in Alaska?
+1636 NUM When was the battle of Chancellorsville fought?
+1637 ENTY What is the name of the five pointed star commonly used by Satanists?
+1638 LOC What city in Australia has rain forests?
+1639 ENTY the 1999 film "Pushing Tin"?
+1640 HUM Who founded Taoism?
+1641 LOC Where did 'N Sync get their name?
+1643 HUM Who founded Rhode Island?
+1645 NUM How much is the international space stations expected to cost?
+1646 NUM When was the first atomic bomb dropped?
+1647 LOC What continent is Scotland in?
+1649 NUM What year did the shuttle Challenger explode?
+1650 LOC What county is Elmira, NY in?
+1651 ENTY What is another name for the North Star?
+1652 NUM When did the United States enter World War II?
+1653 DESC How do you say "French fries" in French?
+1654 LOC Where is Prairie View A&M University?
+1655 LOC Where was Abraham Lincoln born?
+1657 ENTY What do the French call the English Channel?
+1658 NUM What year was Robert Frost born?
+1659 LOC Where was Bob Dylan born?
+1660 HUM What is Elvis Presley's middle name?
+1661 DESC What does "E Pluribus Unum" mean?
+1662 NUM When was Jerusalem invaded by the general Titus?
+1663 ENTY What are the people who make fireworks called?
+1664 HUM Who was the first person to make the helicopter?
+1665 NUM When did Marian Anderson sing at the Lincoln Memorial?
+1666 HUM What is the name of the US military base in Cuba?
+1667 ABBR What is the abbreviation for the London stock exchange?
+1668 LOC What is the oldest national park in the U.S.?
+1669 NUM How tall is Mount McKinley?
+1671 LOC Where is Big Ben?
+1672 LOC What Latin American country is the leading exporter of sugar cane?
+1673 NUM What time of year does the peregrine falcon breed?
+1674 NUM What day did Neil Armstrong land on the moon?
+1675 HUM What group sang the song "Happy Together"?
+1676 NUM When was water found on Mars?
+1677 DESC How did Micky Mantle die?
+1678 HUM Who was the U.S. president in 1929?
+1679 DESC What is the diameter of the moon?
+1680 LOC What country was ruled by King Arthur?
+1681 NUM When did Houdini die?
+1682 NUM When was Martin Luther King Jr. born?
+1683 HUM What name is horror actor William Henry Pratt better known by?
+1685 LOC What is the most populous city in the United States?
+1686 HUM Who defeated the Spanish armada?
+1687 HUM What president declared Mothers' Day?
+1688 NUM What year was the gateway arch built?
+1689 ENTY What war is connected with the book "Charge of the Light Brigade"?
+1690 ABBR What does DEA stand for?
+1691 LOC Where was the movie "Somewhere in Time" filmed?
+1692 DESC How tall is the Eiffel Tower in France?
+1693 NUM When was Jackie Robinson born?
+1694 ENTY What year did California become a territory?
+1695 ENTY What breed was Roy Rogers' horse Trigger?
+1697 LOC Where is the Statue of Liberty?
+1698 NUM When was Julius Caesar born?
+1699 LOC What city is Purdue University in?
+1700 LOC Where is America's Stonehenge?
+1701 LOC Where was President Lincoln buried?
+1702 HUM Whose business slogan is "Quality is job 1"?
+1704 NUM What is the normal pulse rate?
+1705 ENTY What is rum made out of?
+1706 NUM What is the beginning date for the Hershey foods company?
+1708 NUM When was the Exxon Valdez Oil spill?
+1710 ENTY What are the colors of the Italian flag?
+1711 NUM When was the first jet invented?
+1712 HUM Who invented the fishing reel?
+1713 DESC What is the phobia for number 13?
+1714 LOC What province in Canada is Niagara Falls located in?
+1715 NUM How much vitamin C should you take in a day?
+1716 HUM Who was the first Triple Crown Winner?
+1717 LOC What city was the first in the world to have a population over one million?
+1718 NUM When was the White House built?
+1719 DESC What is the distance from Jupiter to the sun?
+1720 NUM When a game of baseball is forfeited, what is the score?
+1721 NUM How far is the pitchers mound from home plate in softball?
+1722 NUM What year did poet Emily Dickinson die?
+1723 HUM What is Madonna's last name?
+1724 HUM Who was one of the Egyptian gods?
+1726 ENTY What is the name of the canopy at a Jewish wedding?
+1727 ABBR What does the abbreviation WASP mean?
+1728 NUM When did Yankee Stadium first open?
+1729 ENTY What is the name of the airport in Amsterdam?
+1730 HUM What is Mark Twain's real name?
+1731 NUM official population census?
+1732 ENTY What are the opening words of the Declaration of Independence?
+1733 HUM Who is the president pro tempore of the US Senate?
+1734 DESC How do you say "pig" in Spanish?
+1735 LOC What city is Southwestern University in?
+1736 LOC Where on the body would you find the jowls?
+1737 NUM How much sleep should a child get at night?
+1739 ENTY What is the full name of conductor Seiji?
+1740 ENTY What is the Stanley Cup made of?
+1741 HUM What author wrote under the pen name "Boz"?
+1742 NUM When did the Mesozoic period end?
+1744 HUM What car company invented the Edsel?
+1745 ENTY What are hiccups caused by?
+1746 HUM Who stabbed Monica Seles?
+1747 LOC Where is the national hurricane center located?
+1748 NUM When were the Los Angeles riots?
+1749 NUM When was Sputnik launched?
+1750 NUM What is Mexico's population?
+1751 LOC Where is Mesa Verde National park?
+1752 NUM When was the Oklahoma City bombing?
+1753 NUM When was the Vietnam Veterans Memorial in Washington, D.C. built?
+1754 NUM When did the Persian Gulf War occur?
+1755 HUM What was the profession of American patriot Paul Revere?
+1756 NUM When is Fashion week in NYC?
+1757 NUM When did the battle of Iwo Jima take place?
+1758 DESC What is the "Sunflower State"?
+1759 HUM Who wrote "Fiddler on the Roof?"
+1762 ENTY What is the name of Scarlett O'Hara's house?
+1763 NUM How old is the universe?
+1764 HUM What Cuban dictator did Fidel Castro force out of power in 1958?
+1766 DESC What is Australia's national blossom?
+1767 NUM When was the first Ford Mustang made?
+1768 ENTY What TV series did Pierce Brosnan play in?
+1769 HUM Who is the owner of the St. Petersburg Times?
+1770 LOC What is the highest recorded temperature in San Antonio, TX?
+1771 NUM When was D-Day?
+1772 HUM Who invented the cotton gin?
+1773 ENTY What was Aaron Copland's most famous piece of music?
+1774 ABBR What does HTML stand for?
+1775 ENTY What is a group of antelope called?
+1776 NUM What year did the first American lighthouse open?
+1777 HUM Who did Scott Bakula play in "American Beauty"?
+1778 NUM When did Walt Disney die?
+1779 LOC What is Australia's oldest city?
+1780 HUM Who has the most no hitters in major league baseball?
+1781 NUM What year did "Snow White" come out?
+1782 HUM Who was the first woman to run for president?
+1783 LOC What country are Volvo automobiles made in?
+1784 ENTY What is the scientific name for leech?
+1785 LOC What body of water does the Euphrates River empty into?
+1787 ENTY What is David Lee Roth's birthday?
+1788 HUM Who makes viagra?
+1789 NUM What is the date of the Kent State Shooting?
+1790 LOC What country is the holy city of Mecca located in?
+1791 NUM When did they put Mir down?
+1793 LOC What is the world's tallest office building?
+1794 ENTY What is the fastest car in the world?
+1795 NUM How far does a laser pointer shine?
+1796 HUM the Axis troops in North Africa?
+1797 DESC How did Adolf Hitler die?
+1798 LOC On what continent is Egypt located?
+1799 NUM What is the life expectancy of the average woman in Nigeria?
+1800 HUM Which president was sworn into office on an airplane?
+1801 LOC Where is the smallest bone in the body?
+1802 DESC How tall is Tom Cruise?
+1803 NUM When did Willis Haviland Carrier make the air conditioner?
+1804 LOC Which river runs through Dublin?
+1805 HUM Who was elected President of South Africa in 1994?
+1806 NUM When was the first heart transplant?
+1807 NUM What is the range for the number of passengers a Boeing 747 airplane can carry?
+1808 LOC What island did the U.S. gain after the Spanish American war?
+1809 NUM When was the Buckingham Palace built in London, England?
+1810 LOC Where are the British Crown jewels kept?
+1811 NUM When was penicillin first used?
+1812 ENTY What was the name of the stage play that A. Lincoln died at?
+1813 NUM When were the first postage stamps issued in the United States?
+1814 ENTY What gift is proper for a 1st anniversary?
+1815 ENTY What is Nicaragua's main industry?
+1818 LOC Where did Golda Meir grow up?
+1819 NUM When did Marilyn Monroe commit suicide?
+1820 NUM When is Mexico's independence?
+1821 HUM Who were the architects who designed the Empire State Building?
+1822 HUM Who was the captain of the Titanic?
+1823 ENTY What number did Michael Jordan wear?
+1824 ENTY to research extensively?
+1825 ENTY What year did Nintendo 64 come out?
+1826 ENTY Which film received the first best picture Academy Award?
+1827 LOC Where was the battle of Alamo fought?
+1828 HUM What was Thailand's original name?
+1829 DESC How tall is the CNN Tower in Toronto?
+1830 LOC What city does the Tour de France end in?
+1831 HUM What is the name of Abbott and Costello's famous routine?
+1833 DESC How tall is Mike Tyson?
+1834 HUM Which disciple received 30 pieces of silver for betraying Jesus?
+1835 HUM Who was Sherlock Holmes' arch enemy?
+1836 LOC What river runs through Rome, Italy?
+1837 NUM What year was Ebbets Field, home of Brooklyn Dodgers, built?
+1838 ENTY What was the name of FDR's dog?
+1839 LOC What country was formed in 1948?
+1840 LOC What is the state song of Kansas?
+1843 ENTY In what month are the most babies born?
+1844 NUM When was the Hellenistic Age?
+1845 LOC What province is Calgary located in?
+1846 ENTY What is the oldest sports trophy?
+1847 HUM What is Tina Turners real name?
+1848 HUM What was the name of the plane that dropped the Atomic Bomb on Hiroshima?
+1849 HUM What is the nickname of Oklahoma?
+1850 HUM What is Marilyn Monroe's real name?
+1851 LOC Which country colonized Hong Kong?
+1852 NUM When did Henry VIII rule England?
+1853 LOC Where was the Andersonville Prison?
+1855 NUM How fast is the world spinning?
+1856 LOC What city is known as the rubber capital of the world?
+1857 DESC What is the length of Churchill Downs racetrack?
+1858 HUM Tell me where the DuPont company is located.
+1859 ENTY What branch of the military has its academy in Annapolis?
+1861 LOC Where was Bill Gates born?
+1862 ENTY What is the GDP of China?
+1863 HUM Who said "I have not begun to fight!"?
+1864 HUM to be born in America?
+1865 ENTY What is the major crop grown in Arizona?
+1866 ENTY What part of the eye continues to grow throughout a person's life?
+1867 ENTY or the Duomo?
+1870 LOC What country is Pretoria in?
+1871 NUM How much gravity exists on Mars?
+1872 DESC How did Eva Peron die?
+1873 DESC What is the motto for California?
+1874 NUM When was the battle of Shiloh?
+1876 DESC How far from the earth is the sun?
+1878 NUM What year was the phonograph invented?
+1879 HUM By what nickname was musician Ernesto Antonio Puente, Jr. best known?
+1880 NUM When was King Louis XIV born?
+1881 ENTY What is the scientific name for the zinnia plant?
+1882 LOC What nationality is Sean Connery?
+1883 DESC How much of the ozone layer is depleted?
+1884 LOC Where is the Sea of Tranquility?
+1885 ENTY What language do they speak in New Caledonia?
+1886 ENTY What are Brazil's national colors?
+1888 NUM What year was the light bulb invented?
+1889 NUM How old is the Red Pyramid?
+1890 HUM Who is the author of the poem "The Midnight Ride of Paul Revere?"
+1891 HUM Who was the first black heavyweight champion?
+1892 LOC Where does cinnamon come from?
+1894 NUM How far is it from Earth to Mars?
+1895 DESC How late is Disneyland open?
+1896 HUM What was the Hunchback of Notre Dame's real name?
+1897 ENTY What is the name of the airport in Dallas Ft. Worth?
+1898 LOC What city is Disneyland in?
+1899 ENTY What book did Rachel Carson write in 1962?
+1900 LOC What country is Aswan High Dam located in?
+1903 NUM How many time zones are there in the world?
+1904 NUM How high is the pitcher's mound?
+1906 DESC How did the disciple Peter die?
+1908 NUM What is the population of Iceland?
+1909 HUM What business was the source of John D. Rockefeller's fortune?
+1910 ENTY What are pennies made of?
+1911 ENTY What is the name of the chart that tells you the symbol for all chemical elements?
+1912 LOC In which city is the River Seine?
+1914 LOC What city is the home to the Rock and Roll Hall of Fame?
+1916 LOC What city did Duke Ellington live in?
+1918 DESC How did Jimi Hendrix die?
+1919 NUM How big is Mars?
+1920 NUM When was "Cold Mountain" written?
+1921 DESC How did Virginia Woolf die?
+1922 NUM How fast is an eye blink?
+1925 ENTY What did Ozzy Osbourne bite the head off of?
+1926 NUM When was the U.S. capitol built?
+1927 DESC How did George Washington die?
+1928 DESC how did Patsy Cline die
+1929 ENTY What band did the music for the 1970's film "Saturday Night Fever"?
+1930 HUM What band was Jerry Garcia with?
+1931 NUM When was Prince Charles born?
+1932 NUM When did International Volunteers Day begin?
+1934 ENTY What is the play "West Side Story" based on?
+1935 ENTY What color is the top stripe on the U.S. flag?
+1936 NUM How many stories are in the Sears Tower?
+1937 NUM How fast can a nuclear submarine travel?
+1938 NUM How many floors are in the Empire State Building?
+1939 DESC How did Einstein die?
+1941 ENTY What membrane controls the amount of light entering the eye?
+1943 ENTY What is the name of Ling Ling's mate?
+1944 ENTY What did George Washington call his house?
+1945 NUM When was Adolf Hitler born?
+1946 NUM What day and month did Nixon resign?
+1947 LOC What country did Catherine the Great rule?
+1948 ENTY What is the word which means one hiring his relatives?
+1949 HUM What is the nickname of the British flag?
+1950 HUM Who created the literary character Phineas Fogg?
+1952 NUM How late will airlines let you fly in pregnancy?
+1953 NUM How many NFL teams are there?
+1954 LOC What country made the Statue of Liberty?
+1956 LOC What country is the largest in square miles?
+1958 NUM How fast can a king cobra kill you?
+1959 DESC What does cc mean in letter writing?
+1960 NUM How many gas stations are there in the United States?
+1961 HUM What position did Satchel Paige play in professional baseball?
+1962 LOC What country is know as the "Land of the Rising Sun"?
+1965 HUM What company manufactures Sinemet?
+1966 LOC What capital city do you see from the top of Bunker Hill?
+1967 ENTY What party led Australia from 1983 to 1996?
+1968 DESC What fruit's stone does Laetrile come from?
+1969 ABBR What does ACLU stand for?
+1970 ENTY What is the national airline of Spain?
+1971 LOC What city is the Liberty Bell currently located in?
+1973 HUM What player on a basketball team usually plays the post or pivot position?
+1974 ENTY What is Richie's surname on "Happy Days"?
+1975 DESC How did Cleopatra die?
+1976 DESC What is the motto for the Boy Scouts?
+1978 NUM How big is the sun?
+1980 NUM How far is the moon from Earth in miles?
+1981 NUM How long is the Great Barrier Reef?
+1982 ENTY What movie won the Academy Award for best picture in 1989?
+1983 NUM When was Lyndon B. Johnson president?
+1984 ENTY What are people born 1965 through 1980 called?
+1985 HUM What is the Cav's arena name?
+1986 LOC What city is Ole Mississippi University in?
+1989 NUM When was chewing tobacco banned in baseball?
+1991 DESC How did Minnesota get its name?
+1992 NUM How hot is the sun?
+1993 NUM How many official languages does Switzerland have?
+1994 ENTY What was the Beatles' first number one hit?
+1995 ENTY What department is responsible for regulating casino gambling in Mississippi?
+1996 LOC What city is Duke University in?
+1997 HUM What American revolutionary general turned over West Point to the British?
+1998 NUM How old was Babe Ruth when he died?
+1999 NUM What is the state with the smallest population?
+2000 NUM How many Earth days does it take for Mars to orbit the sun?
+2001 HUM What rock band sang "A Whole Lotta Love"?
+2003 NUM How far is the distance for a free throw?
+2004 ENTY What do the opposite sides of a die add up to?
+2005 ENTY What is the fastest roller coaster?
+2007 NUM How many years are there in a French president's term?
+2009 ENTY What animal has human-like fingerprints?
+2010 HUM What island was Napoleon exiled to after his defeat at Waterloo?
+2011 NUM When was Leonardo da Vinci born?
+2012 DESC How did Marty Robbins die?
+2013 NUM How many stripes are on the American flag?
+2015 LOC What building is the Academy of Country Music Awards held in?
+2016 ENTY What is the area of western Germany that is known for its rich coal deposits?
+2017 HUM What percent of the nation's cheese does Wisconsin produce?
+2018 NUM How many days are there in a Martian year?
+2020 LOC In which city would you find the Louvre?
+2021 ENTY What is the world's largest coral reef?
+2022 LOC What English city does the prime meridian pass through?
+2023 LOC What continent is the world's largest dessert on?
+2025 ENTY What sports stadium has been billed as "the eighth wonder of the world"?
+2026 NUM When was the first Olympics held?
+2027 NUM When was OJ Simpson arrested for murder?
+2028 LOC What are the biggest snakes in the world?
+2029 NUM How many electoral votes does Tennessee have?
+2030 DESC How do you say "cat" in the French language?
+2032 ENTY What sporting event first took place in 1903?
+2033 NUM How many types of human blood are there?
+2035 NUM How many stomachs does a cow have?
+2036 NUM How many counties are in California?
+2037 DESC How did Iowa get its name?
+2038 ENTY What did Alfred Noble invent?
+2039 HUM What college did Allen Iverson go to?
+2040 ENTY What are baby frogs called?
+2044 ENTY What museum in Philadelphia was used in "Rocky"?
+2045 NUM When was the city of New Orleans founded?
+2047 DESC How close is Mercury to the sun?
+2048 NUM When was MTV started?
+2049 HUM What president served 2 nonconsecutive terms?
+2050 ENTY What dissolves gold?
+2052 ENTY What county is San Antonio, Texas in?
+2053 ENTY What duo lost their Grammy for best new artist when it was discovered that they lip-synched their songs?
+2055 ENTY What dessert is made with poached peach halves, vanilla ice cream, and raspberry sauce?
+2056 ENTY What band did former Red Hot Chili Peppers guitarist Dave Navarro start out with?
+2057 NUM How many children did Bob Marley have?
+2058 DESC What is the motto of the "New York Times"?
+2059 DESC How did Chicago get its name?
+2061 ENTY What court case overturned Plessy v. Furgeson?
+2062 NUM How many legs does a beetle have?
+2064 LOC What country is Mt. Everest in?
+2065 ENTY What is a female moose called?
+2066 ENTY What is tequila made from?
+2067 NUM How many Great Lakes are there?
+2068 ENTY What animal is responsible for the most human deaths worldwide?
+2069 NUM When was the first Star Wars movie made?
+2070 NUM What date did the U.S. civil war start?
+2071 NUM How many islands are there in Indonesia?
+2072 DESC How did Brandon Lee die?
+2073 NUM How fast does light travel through space?
+2074 DESC How tall is the tallest pyramid?
+2075 LOC What city in Louisiana was Britney Spears born in?
+2076 HUM What company owns the soft drink brand "Gatorade"?
+2077 NUM How big does a pig get?
+2078 ENTY What is Corian made of?
+2080 ENTY What peace treaty ended WWI?
+2083 ENTY What breed of horse was used to found the Lipizzaner?
+2084 NUM How many home runs did Babe Ruth hit?
+2085 DESC How close is Mesa to Phoenix?
+2086 ENTY What is the study of ants called?
+2087 LOC What Canadian city has the largest population?
+2088 NUM How many rooms are in the White House?
+2089 HUM On what Caribbean Island was Ponce de Leon governor?
+2090 ENTY What Ridley Scott movie is set in 180 a.d.?
+2091 HUM What is Eminem's real name?
+2092 NUM When was the telegraph invented?
+2093 LOC Which city is home to Superman?
+2094 NUM When was JFK born?
+2098 HUM What player has been the home run champion of the national league seven times?
+2099 ENTY What comedy team was John Cleese part of?
+2100 ENTY What did Caesar say before he died?
+2101 LOC What country was Catherine the Great from?
+2102 ENTY What American landmark stands on Liberty Island?
+2103 HUM What confederate general was responsible for the defeat at Gettysburg?
+2104 NUM When was the submarine invented?
+2105 LOC What country produces the most silk?
+2106 HUM What is Barbie's full name?
+2107 DESC What is the currency of Denmark?
+2109 NUM When was the U.N. created?
+2110 HUM what is Speedy Claxton's real name?
+2111 NUM How many times have the Yankees won the World Series?
+2115 ENTY In what Canadian province are most people of French descent?
+2116 DESC How cold is Lake George?
+2117 ENTY What college did Marcus Camby play for?
+2119 NUM When is Jennifer Lopez's birthday?
+2120 ABBR What does "CBS" {television network} stand for?
+2121 HUM What artist recorded the song "At Last" in the 40's or 50's?
+2122 ENTY What is the inner peel of an orange called?
+2123 NUM When was John Lennon born?
+2124 HUM What organization did Paul Konerko first play major league baseball with?
+2127 LOC What country did Panama gain its independence from?
+2128 DESC What flavor filling did the original Twinkies have?
+2129 NUM How many home runs did Henry "Hank" Aaron hit in his major league career?
+2131 HUM Who is the mayor of San Francisco?
+2133 NUM When was Abraham Lincoln born?
+2134 HUM What is Motley Crue's Nikki Sixx's real name?
+2135 NUM How accurate are HIV tests?
+2136 NUM How many moons does Neptune have?
+2139 ENTY What gas is 78 percent of the earth's atmosphere?
+2140 ENTY What day did Martin Luther King, Jr. get assassinated?
+2141 NUM How many justices does the United States Supreme Court have?
+2143 DESC How did John Dillinger die?
+2145 DESC What does a theodolite measure?
+2149 NUM How many Olympic gold medals did Carl Lewis win?
+2151 ENTY What cathedral is in Claude Monet's paintings?
+2152 NUM When was the Great Wall of China built?
+2153 NUM What date did the Lusitania sink?
+2154 ENTY What is egg white called?
+2155 LOC What country is home to Sabena Airlines?
+2156 NUM How fast does Randy Johnson throw?
+2159 LOC What country singer's first album was titled "Storms of Life"?
+2160 NUM What is the body temperature of a dog?
+2161 HUM What is the nickname for the national New Zealand basketball team?
+2164 DESC How did Julius Irving's son die?
+2165 NUM What date was the Declaration of Independence signed on?
+2167 NUM How often is someone murdered in the U.S.?
+2168 LOC What country produces the most emeralds?
+2169 NUM What day did Pearl Harbor occur?
+2170 NUM How often does the men's soccer World Cup take place?
+2171 NUM How big do iguanas get?
+2173 ENTY What is the "Playboy" logo?
+2175 LOC What country did Iraq invade in 1990?
+2176 DESC when was Dante's "Inferno" written?
+2178 NUM How high is Mt. Hood?
+2179 HUM What famous verse did Sarah Hale write in 1830?
+2181 NUM How many people can be seated in Yankee Stadium?
+2182 NUM How far is the Titanic under water?
+2184 ENTY What Liverpool club spawned the Beatles?
+2185 NUM How long do mourning doves live?
+2186 ENTY What are the measurements for a king-size bed?
+2187 ENTY What is the big prize called in Canadian football?
+2188 HUM Who sang "Tennessee Waltz"?
+2189 ENTY What animal can go the longest without water?
+2190 LOC What country is Hyundai from?
+2191 LOC What city is the gateway arch located in?
+2192 DESC How did Malcolm X die?
+2193 NUM How many feet above sea level is Jerusalem?
+2194 ENTY What are brake pads made of?
+2195 NUM When was Ronald Reagan shot?
+2196 LOC What ocean are the Gilbert Islands in?
+2197 ENTY What is the name of the unmanned space craft sent to Mars by NASA?
+2198 ENTY What is the name of the Chief Justice of the Supreme Court?
+2199 ENTY What band was Jimmy Page in before Led Zeppelin?
+2200 NUM How big is a keg?
+2202 NUM How many interceptions did Joe Montana throw in four Superbowls?
+2204 HUM What actor has a tattoo on his right wrist reading "Scotland forever"?
+2205 NUM How many cabinet officers are there?
+2209 ENTY What is the term for arable land left unseeded for one season?
+2210 NUM How many grams in an ounce?
+2211 NUM How large of a litter does a rat have at one time?
+2212 LOC What country artist is nicknamed Tater?
+2214 LOC What country other than Germany has German as its official language?
+2215 ENTY What are sounds too low for humans to hear called?
+2216 DESC How did Dennis Brown die?
+2217 LOC What country does Greenland belong to?
+2218 HUM What company manufactures Van Heusen shirts?
+2219 NUM How tall is Al Pacino?
+2223 NUM When was the first camera invented?
+2225 LOC What modern country is home to the ancient city of Babylon?
+2226 NUM When was abortion legalized in the U.S.?
+2227 LOC What is the Bluegrass state?
+2228 LOC What country was the Battle of Verdun fought in?
+2230 LOC What dam is said the be the largest hydroelectric station in the world?
+2231 ENTY What is a word spelled the same backward and forward called?
+2232 HUM What daughter of Czar Nicholas II is said to have escaped death in the Russian revolution?
+2233 NUM How far is a 3-point line from the basketball goal in the NBA?
+2235 LOC What is the highest mountain in South America?
+2236 LOC What country's flag flies over the Canary Islands?
+2237 ENTY What album became the greatest selling album of all time?
+2238 DESC How cold is the moon?
+2239 ENTY What prison is Charles Manson at?
+2240 NUM What does the bugler play at the end of the day on a US military base?
+2241 NUM How tall is the green monster at Fenway?
+2242 ENTY What chemical is in chocolate that helps with depression?
+2244 ENTY What dress size was Marilyn Monroe?
+2246 ENTY What film did Liza Minnelli win a best actress Oscar for?
+2247 HUM What major league baseball player has 511 pitching victories?
+2248 NUM How many planets are in our solar system?
+2249 NUM When was the Panama Canal returned to Panama?
+2251 NUM How deep is the Grand Canyon?
+2252 ENTY What apostle was crucified?
+2254 NUM How much does it cost for gastric bypass surgery?
+2255 DESC How do you say "I love you" in French?
+2257 LOC What is the richest country in the world?
+2260 NUM When was the hot air balloon invented?
+2261 HUM What college did Magic Johnson go to?
+2262 DESC How did Cincinnati get its name?
+2263 NUM How big was the Big Gulp sold in 7-Eleven stores in 1980?
+2264 NUM How old was Elvis when he died?
+2265 DESC How did Marjorie Kinnan Rawlings die?
+2266 ENTY What substance did Charles Best and Frederick Banting discover in 1922?
+2268 ENTY what instrument does the concertmaster of an orchestra usually play?
+2269 NUM How long is a quarter in an NBA game?
+2270 LOC What is capital of Maryland?
+2271 ENTY What class of drug is Xanax?
+2272 NUM How many intelligence agencies does the U.S. have?
+2273 ENTY Which religion has the largest number of followers worldwide?
+2275 NUM How big is the planet Venus?
+2276 NUM When was Mariah Carey born?
+2277 LOC In which country is Timbuktu?
+2278 ENTY What are the odds against getting struck by lightning?
+2280 NUM How many rooms does the Las Vegas MGM Grand Hotel have?
+2281 HUM What American commodore demanded that Japan trade with the United States?
+2282 DESC What canal is between the Mediterranean Sea and the Red Sea?
+2283 ENTY What is the traditional dish served at Wimbledon?
+2284 ENTY What Chinese Dynasty was during 1412-1431?
+2285 NUM How much does the capitol dome weigh?
+2286 ENTY What is an Indian flute made of?
+2288 ENTY What animal is veal from?
+2289 LOC What continent is Togo on?
+2290 NUM When was the piano made?
+2292 ENTY What do you call a bone doctor?
+2293 NUM How many times a day do observant Muslims pray?
+2294 LOC What continent is India on?
+2295 ENTY What 1857 U.S. Supreme Court decision denied that blacks were citizens?
+2296 ENTY What national monument was designated as the first national monument in 1906?
+2297 HUM What is Britney Spears' middle name?
+2299 NUM How many mph do you have to go to break the sound barrier?
+2300 LOC What country did Marco Polo come from?
+2301 HUM What composer wrote "Die Gotterdammerung"?
+2302 NUM How much did the first Barbie cost?
+2303 LOC What is the longest river in the world?
+2305 NUM When is Mexico's Independence Day?
+2306 NUM How big is the Great Pyramid?
+2307 NUM How many terms was Dwight D. Eisenhower president?
+2309 NUM How much calcium is in broccoli?
+2310 NUM How many American deaths were there in the Korean war?
+2311 DESC How did the Lindy Hop get its name?
+2312 NUM How many republics made up the Soviet Union?
+2313 DESC What does an English stone equal?
+2315 NUM How many tentacles do squids actually have?
+2317 HUM What team drafted Brett Favre?
+2318 ENTY What instrument measures radioactivity?
+2319 ENTY What common medicine discovered by native Americans is from the bark of a willow tree?
+2320 NUM When was the first TV invented?
+2323 ENTY What American feminist appeared on a silver dollar?
+2325 NUM When was the first Superbowl?
+2326 NUM How far is it from the pitcher's mound to home plate?
+2328 LOC What state was Amelia Earhart born in?
+2329 NUM How many muscles are there in the human body?
+2330 LOC What river is under New York's George Washington bridge?
+2331 HUM What actress has received the most Oscar nominations?
+2333 NUM How old do you have to be to join the U.S. Navy?
+2334 ENTY What did Peter Minuit buy for the equivalent of $24.00?
+2335 DESC How did Harry Chapin die?
+2336 NUM How many layers of skin do we have?
+2337 DESC How did Joseph Smith die?
+2338 NUM When was the Titanic built?
+2339 DESC How did John Quincy Adams die?
+2340 ENTY What instrument did the jazz musician Art Tatum play?
+2341 NUM When was barbed wire invented?
+2342 NUM When was the first televised World Series?
+2344 LOC What city hosted the 1936 Summer Olympics?
+2347 LOC Where is Mount Olympus?
+2350 NUM How big is the killer whale?
+2351 NUM How long before bankruptcy is removed from a credit report?
+2352 DESC What engineer designed the Erie Canal?
+2353 HUM What did Osama bin Laden's father do for a living?
+2354 DESC How did Anne Frank die?
+2355 HUM What 20th century American president died at Warm Springs, Georgia?
+2356 ENTY What instrument did Louis Armstrong play?
+2357 LOC What city's biggest shopping district is called the Ginza District?
+2358 HUM Who was responsible for the killing of Duncan in "Macbeth"?
+2359 LOC What country's soldiers hid in the Trojan horse?
+2360 ENTY What is the gift for the 20th anniversary?
+2361 ENTY What stadium was the first televised MLB game played in?
+2362 NUM How high is Pikes peak?
+2364 NUM How hot does it get in Death Valley?
+2365 LOC What body of water does the Colorado River empty into?
+2367 DESC How tall is the Washington Monument?
+2370 NUM When was the first potato chip made?
+2371 ENTY What type of bee drills holes in wood?
+2375 ENTY What date did Thomas Jefferson die?
+2376 ENTY What color belt is first in karate?
+2377 LOC What country is the leading producer of rubber?
+2378 DESC How did Bob Marley die?
+2379 ENTY What is the scientific name for red ants?
+2380 ENTY What is the name of the official residence of the President of France?
+2381 DESC What is Horatio's relationship to Hamlet?
+2382 ENTY What passage has the Ten Commandments?
+2383 DESC How did Jerry Garcia Die?
+2384 NUM What is the population of Canberra?
+2386 DESC How did Harry Houdini die?
+2387 LOC What country celebrates Guy Fawkes Day?
+2388 HUM what Arthur Miller play recounts his marriage to Marilyn Monroe?
+2390 HUM What ancient tribe of Mexico left behind huge stone heads standing 6-11 feet tall?
+2391 HUM What president created social security?
+2392 NUM When was the Red Cross founded?
+2393 ENTY What color hair did Thomas Jefferson have before gray?

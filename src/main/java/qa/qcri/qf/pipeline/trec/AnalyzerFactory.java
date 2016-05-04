@@ -8,6 +8,8 @@ import org.apache.uima.fit.factory.AnalysisEngineFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import qa.qcri.qf.annotators.FromFileFocusClassifier;
+import qa.qcri.qf.annotators.FromFileQuestionClassifier;
 import qa.qcri.qf.annotators.IllinoisChunker;
 import qa.qcri.qf.pipeline.Analyzer;
 import qa.qcri.qf.pipeline.serialization.UIMAPersistence;
@@ -52,6 +54,7 @@ public abstract class AnalyzerFactory {
 		return analyzer;
 	}
 
+	
 	private static Analyzer newTrecPipelineEnAnalyzer(
 			UIMAPersistence persistence) throws UIMAException {
 		assert persistence != null;
@@ -100,5 +103,62 @@ public abstract class AnalyzerFactory {
 		return ae;
 	}
 
+	
+	public static Analyzer newTrecPipelineFocusAndQCFromFileEnAnalyzer(
+			UIMAPersistence persistence, String questionClassFile, String questionFocusFile) throws UIMAException {
+		assert persistence != null;
+
+		Analyzer ae = new Analyzer(persistence);
+
+		AnalysisEngine stanfordSegmenter = AnalysisEngineFactory
+				.createEngine(createEngineDescription(StanfordSegmenter.class));
+
+		/**
+		 * StanfordPosTagger puts wrong POS-tags on parentheses
+		 * The OpenNlpPosTagger is our choice for now.
+		 */
+		AnalysisEngine stanfordPosTagger = AnalysisEngineFactory
+				.createEngine(createEngineDescription(OpenNlpPosTagger.class,
+						 StanfordPosTagger.PARAM_LANGUAGE, "en"));
+
+		AnalysisEngine stanfordLemmatizer = AnalysisEngineFactory
+				.createEngine(createEngineDescription(StanfordLemmatizer.class));
+
+		AnalysisEngine illinoisChunker = AnalysisEngineFactory
+				.createEngine(createEngineDescription(IllinoisChunker.class));
+
+		AnalysisEngine stanfordParser = AnalysisEngineFactory
+				.createEngine(createEngineDescription(StanfordParser.class));
+
+		AnalysisEngine stanfordNamedEntityRecognizer = AnalysisEngineFactory
+				.createEngine(createEngineDescription(StanfordNamedEntityRecognizer.class,
+						StanfordNamedEntityRecognizer.PARAM_LANGUAGE, "en",
+						StanfordNamedEntityRecognizer.PARAM_VARIANT, "muc.7class.distsim.crf"));
+
+		AnalysisEngine questionClassifier = AnalysisEngineFactory
+				.createEngine(createEngineDescription(FromFileQuestionClassifier.class,
+						FromFileQuestionClassifier.CATEGORIES_FILE, questionClassFile));
+
+		AnalysisEngine questionFocusClassifier = AnalysisEngineFactory
+				.createEngine(createEngineDescription(FromFileFocusClassifier.class,
+						FromFileFocusClassifier.FOCUS_FILE, questionFocusFile));
+
+		ae.addAE(stanfordSegmenter)
+			.addAE(stanfordPosTagger)
+			.addAE(stanfordLemmatizer)
+			.addAE(illinoisChunker)
+			.addAE(stanfordNamedEntityRecognizer);
+
+		ae.addAE(stanfordSegmenter, QUESTION_ANALYSIS)
+			.addAE(stanfordPosTagger, QUESTION_ANALYSIS)
+			.addAE(stanfordLemmatizer, QUESTION_ANALYSIS)
+			.addAE(illinoisChunker, QUESTION_ANALYSIS)
+			.addAE(stanfordNamedEntityRecognizer, QUESTION_ANALYSIS)
+			.addAE(stanfordParser, QUESTION_ANALYSIS)
+			.addAE(questionClassifier, QUESTION_ANALYSIS)
+			.addAE(questionFocusClassifier, QUESTION_ANALYSIS);
+
+		return ae;
+	}
 
 }

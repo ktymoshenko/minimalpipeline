@@ -1,0 +1,11 @@
+-trainQuestionsPath data/trec-en/questions.150.txt
+-trainCandidatesPath data/trec-en/terrier.BM25b0.75_0.150q
+-trainCasesDir CASes/trec-en/
+-trainOutputDir data/trec-en-toy-simple/train/
+-testQuestionsPath data/trec-en/questions.150.txt
+-testCandidatesPath data/trec-en/terrier.BM25b0.75_0.150q
+-testCasesDir CASes/trec-en/
+-testOutputDir data/trec-en-toy-simple/test/
+-candidatesToKeepInTrain 10
+-candidatesToKeepInTest 50
+-lang en
