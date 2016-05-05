@@ -133,6 +133,8 @@ This argument sets the logging properties.
 
 After the execution of the pipeline, the `data/trec-en/` folder will contain the `train` and `test` folders with the data required for the experiment.
 
+You can visualize the trees from the SVMLightTK data files in http://ironcreek.net/phpsyntaxtree
+
 ### Settings
 
 The candidates kept for training are 10 while the candidates kept for testing are 50.
