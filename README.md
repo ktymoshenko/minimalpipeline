@@ -131,7 +131,7 @@ The Java virtual machine arguments are the following:
 
 This argument sets the logging properties.
 
-After the execution of the pipeline, the `data/trec-en/` folder will contain the `train` and `test` folders with the data required for the experiment.
+After the execution of the pipeline, the `data/trec-en-qc/` folder will contain the `train` and `test` folders with the data required for the experiment.
 
 You can visualize the trees from the SVMLightTK data files in http://ironcreek.net/phpsyntaxtree
 
